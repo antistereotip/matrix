@@ -22,3 +22,5 @@ if(!isset($_GET["page"])) {
 require_once(ROOT_DIR .'include/sidebar.php');
 
 require_once(ROOT_DIR .'include/footer.php');
+
+# komentar
